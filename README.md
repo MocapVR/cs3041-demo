@@ -5,7 +5,7 @@
 
 There are two demos below. The first is a Google Cardboard demo that allows you to move around using a bluetooth controller or keyboard.
 
-https://view-only-vr.glitch.me/ 
+<https://view-only-vr.glitch.me/>
 
 
 The second demonstrates interaction with an identical virtual space, adding full-body motion tracking and basic physics
